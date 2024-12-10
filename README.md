@@ -6,7 +6,7 @@
 
 ## Project Video
 <div align="center">
-  <iframe width="800" height="500" src="[demo_video](https://drive.google.com/file/d/1n8nWQyRdIfhGKtI2LZbE_hSR03He0iyf/view?usp=sharing)" frameborder="0" allowfullscreen></iframe>
+  <iframe width="800" height="500" src="https://drive.google.com/file/d/1n8nWQyRdIfhGKtI2LZbE_hSR03He0iyf/view?usp=sharing" frameborder="0" allowfullscreen></iframe>
 </div>
 
 
