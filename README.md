@@ -1,4 +1,4 @@
-# Cat Bot
+# ESE5190 Final Project - Team 9-eighty five
 
 ## Team Members
 - Tian Zhang
@@ -6,7 +6,7 @@
 
 ## Project Video
 <div align="center">
-  <iframe width="800" height="500" src="./images/test_video.mp4" frameborder="0" allowfullscreen></iframe>
+  <iframe width="800" height="500" src="./attachments/test_video.mp4" frameborder="0" allowfullscreen></iframe>
 </div>
 
 
