@@ -6,7 +6,10 @@
 
 ## Project Video
 <div align="center">
-  <iframe width="800" height="500" src="./attachments/video_test.mov" frameborder="0" allowfullscreen></iframe>
+  <video controls width="100%">
+  <source src="./attachments/video_test.mov" type="video/mov">
+
+</video>
 </div>
 
 
