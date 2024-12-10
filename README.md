@@ -22,17 +22,21 @@ The other is the interaction mode, in which the cat bot will have rich facial ex
   We hope to switch between these two modes through timed alarms, using focus mode when people need to focus on work or study. After a fixed period of time, the cat bot will sound an alarm to remind people to rest and interact with them.  
 
 
-## System Architecture
+## 3. Results
 
+Instead of using two ATmega boards, we use one ATmega board along with an extended port expander (PCF8574). The PCF8574 is connected to the ATmega via I2C and is used to control the motors. We use two channels of a single ADC, rather than two separate ADCs from two different boards as initially planned, which simplifies the circuit.
+  
+#### 3.1 Software Requirements Specification (SRS) Results
 
-## Key Features
-### Feature 1
+Based on your quantified system performance, comment on how you achieved or fell short of your expected software requirements. You should be quantifying this, using measurement tools to collect data.
 
+#### 3.2 Hardware Requirements Specification (HRS) Results
 
-### Feature 2
+Based on your quantified system performance, comment on how you achieved or fell short of your expected hardware requirements. You should be quantifying this, using measurement tools to collect data.
 
+## 4. Conclusion
 
-### Feature 3
+Reflect on your project. Some questions to consider: What did you learn from it? What went well? What accomplishments are you proud of? What did you learn/gain from this experience? Did you have to change your approach? What could have been done differently? Did you encounter obstacles that you didn’t anticipate? What could be a next step for this project?
 
 
 
